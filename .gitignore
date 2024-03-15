@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/Vectors/.vs/Vectors
+/Vectors/Vectors/x64/Debug
+/Vectors/x64/Debug
